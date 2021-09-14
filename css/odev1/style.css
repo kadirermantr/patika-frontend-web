@@ -1,0 +1,46 @@
+body {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 20px;
+}
+
+a  {
+    color: #2b4f60;
+}
+
+img {
+    border: 1px solid #2b4f60;
+}
+
+h1 {
+    color: #845460;
+}
+
+p {
+    text-align: justify;
+}
+
+ul {
+    margin: 0;
+	padding: 20px 0 50px 0;
+}
+
+ul li {
+    font-weight: bold;
+    padding-right: 25px;
+}
+
+.header ul li {
+    list-style-position: inside;
+    display: inline-block;
+}
+
+.container {
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+    text-align: center;
+}
+
+.footer {
+    padding: 50px 0;
+}
