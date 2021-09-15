@@ -1,0 +1,12 @@
+a:visited {
+    color: black;
+}
+
+.custom-navbar {
+    background-color: white;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.nav-items {
+    padding-right: 1.5em;
+}
