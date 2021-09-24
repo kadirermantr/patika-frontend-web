@@ -1,2 +1,2 @@
 # patika-frontend-web
-Kodluyoruz eğitimi kapsamında açtığım ilk repo
+Patika - Frontend Web Development Patikası'nda yaptığım projeler
